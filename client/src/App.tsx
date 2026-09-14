@@ -5,11 +5,11 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-      <h1> RAJDEEP DIGITECH SERVICES </h1>
+      <h1> RAJDEEP DIGITECH </h1>
       <nav className="navbar">
         <div className="logo">MyWebsite</div>
         <ul>
