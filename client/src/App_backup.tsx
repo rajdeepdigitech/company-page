@@ -116,7 +116,7 @@ function App_back() {
       <div className="ticks"></div>
       <section id="spacer"></section> */}
       <h1> RAJDEEP DIGITECH SERVICES </h1>
-      <p> A web development company </p>
+      <p> A web and mobile application development company </p>
       {/* <svg className="icon" role="presentation" aria-hidden="true">
           <use href="/icons.svg#documentation-icon"></use>
       </svg> */}
