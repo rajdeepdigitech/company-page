@@ -1,5 +1,5 @@
 import './App.css'
-import logo from './assets/RajdeepDigi.svg'
+import logo from './assets/company_logo.svg'
 
 function App() {
   return (
@@ -68,7 +68,7 @@ function App() {
           <div className="section-inner">
             <h2>Contact us</h2>
             <p>Have a project in mind? Reach out and let's talk.</p>
-            <a href="mailto:hello@rajdeepdigitech.com">hello@rajdeepdigitech.com</a>
+            <a href="rajdeepdigitech@gmail.com">Email</a>
           </div>
         </section>
       </main>
