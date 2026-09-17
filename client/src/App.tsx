@@ -1,10 +1,12 @@
 import './App.css'
+import logo from './assets/RajdeepDigi.svg'
 
 function App() {
   return (
     <>
       <header>
         <nav className="navbar">
+          <img src={logo} alt="Rajdeep Digitech logo" className="logo-icon"/>
           <div className="logo">Rajdeep Digitech</div>
           <ul>
             <li><a href="#home">Home</a></li>
